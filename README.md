@@ -10,4 +10,4 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
 
 ## Yousef's Notes
-Base code used from the weather-app-journal folder. All other code is used from a gained understanding of the course.
+HTML was not changed from it's original format, and CSS had only a single change in it. Javascript was almost entirely written by me with exception of the date and newDate lines. The rest of the Javascript code was learned from Udacity.
